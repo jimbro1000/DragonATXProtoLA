@@ -4,7 +4,7 @@ This repository contains the KiCad project files
 to produce logic analyser interface board for my
 ATX Prototype backplane.
 
-![Render of PCB top](./DragonATXProtoPIA.png)
+![Render of PCB top](./DragonATXProtoLA.png)
 
 This design requires the ATX backplane board in order 
 to operate
